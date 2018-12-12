@@ -9,7 +9,7 @@ let package = Package(
     ],
 
     dependencies: [
-        .package(url: "https://github.com/noahemmet/GraphQL.git", .branch("master")),
+        .package(url: "https://github.com/HappySwifter/GraphQL", .branch("master")),
     ],
 
     targets: [
